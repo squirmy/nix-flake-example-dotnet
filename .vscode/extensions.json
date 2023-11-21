@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "mkhl.direnv",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.vscode-dotnet-runtime",
+    ]
+}

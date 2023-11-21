@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CepAccounts", "CepAccounts\CepAccounts.csproj", "{5E5C7B7E-5E15-46B9-B7B8-58230CA42AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CepAccounts.Tests", "CepAccounts.Tests\CepAccounts.Tests.csproj", "{942DBE15-2269-427E-8D7F-D1B28527F487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5C7B7E-5E15-46B9-B7B8-58230CA42AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5C7B7E-5E15-46B9-B7B8-58230CA42AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5C7B7E-5E15-46B9-B7B8-58230CA42AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5C7B7E-5E15-46B9-B7B8-58230CA42AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942DBE15-2269-427E-8D7F-D1B28527F487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942DBE15-2269-427E-8D7F-D1B28527F487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942DBE15-2269-427E-8D7F-D1B28527F487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942DBE15-2269-427E-8D7F-D1B28527F487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
